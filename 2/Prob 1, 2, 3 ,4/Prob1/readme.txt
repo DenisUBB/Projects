@@ -1,0 +1,1 @@
+Extract all email addresses from all the files in a folder which is given as a command line argument. Hints: sys.argv, os.listdir, re 
